@@ -47,6 +47,12 @@ https://drive.google.com/drive/folders/1UzTFo35e8tzTEeCiD05Am5sdiFlcm4E7
 
 https://drive.google.com/drive/folders/1BpLzehZYk7O7n9wbuz1sg-JK7I7CJv1x
 
+لینک گیتهاب دانشجو شامل تمارین و پیاده‌سازی مقاله:
+
+https://github.com/FarazNosrati/Articles
+
+آیدی پیج اینستاگرام: faraz.ai.med
+
 
 ⚙️ نحوه پیاده‌سازی پروژه
 
