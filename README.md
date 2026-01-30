@@ -27,6 +27,7 @@ COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of 
 
 🔗 لینک مقاله اصلی:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9818579/
+https://www.mdpi.com/2075-4418/13/1/131
 
 💻 لینک گیت‌هاب پروژه مقاله:
 https://github.com/lindawangg/COVID-Net/tree/master
