@@ -43,6 +43,10 @@ https://drive.google.com/file/d/1Jo9D0cCdLxCAEHUhOz9-tuhYS-gTfXWa/view?usp=drive
 
 https://drive.google.com/drive/folders/1UzTFo35e8tzTEeCiD05Am5sdiFlcm4E7
 
+لینک پنج مقاله و ترجمه فارسی آنها:
+
+https://drive.google.com/drive/folders/1BpLzehZYk7O7n9wbuz1sg-JK7I7CJv1x
+
 
 ⚙️ نحوه پیاده‌سازی پروژه
 
