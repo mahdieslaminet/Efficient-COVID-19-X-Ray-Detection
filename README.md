@@ -18,7 +18,9 @@ COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of 
 🎥 پیاده‌سازی.mp4 (ویدئوی اجرای پروژه و تست مدل)
 
 📝 توضیحات ویدئو پیاده‌سازی.pdf (توضیح مراحل اجرای کد و نتایج)
+
 📄 README.md
+
 
 
 📄 منابع پروژه
@@ -34,6 +36,7 @@ https://drive.google.com/file/d/1Jo9D0cCdLxCAEHUhOz9-tuhYS-gTfXWa/view?usp=drive
 
 📦 مدل‌های Pretrained (Google Drive):
 https://drive.google.com/drive/folders/1UzTFo35e8tzTEeCiD05Am5sdiFlcm4E7
+
 
 ⚙️ نحوه پیاده‌سازی پروژه
 
@@ -68,6 +71,7 @@ Normal
 File Name/ Actual Label/ Predicted Label/ Confidence/ Status (Correct / Wrong)
 
 تمام نتایج در قالب DataFrame نمایش داده می‌شوند.
+
 
 🧪 دیتاست تست و ارزیابی
 
