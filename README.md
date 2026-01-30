@@ -8,9 +8,7 @@ COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of 
 محتویات این ریپازیتوری:
 
 📄 An Efficient Deep Learning Method for Detection of COVID-19 Infection Using Chest X-ray Images.pdf (مقاله اصلی پروژه)
-
 📘 ترجمه مقاله اول.pdf
-
 📓 Covid19.ipynb (Google Colabنوت‌بوک اصلی اجرای مدل در)
 🧠 covid19.py (کد پیاده‌سازی مدل و اجرای شبکه عصبی)
 🎥 پیاده‌سازی.mp4 (ویدئوی اجرای پروژه و تست مدل)
@@ -32,7 +30,7 @@ https://drive.google.com/file/d/1Jo9D0cCdLxCAEHUhOz9-tuhYS-gTfXWa/view?usp=drive
 📦 مدل‌های Pretrained (Google Drive):
 https://drive.google.com/drive/folders/1UzTFo35e8tzTEeCiD05Am5sdiFlcm4E7
 
-⚙️⚙️ نحوه پیاده‌سازی پروژه
+⚙️ نحوه پیاده‌سازی پروژه
 
 در این پروژه، ابتدا مدل Pretrained COVID-Net از مخزن رسمی مقاله دریافت شده و در محیط Google Colab بارگذاری شده است.
 
